@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "Paper reproduction code for a posteriori convection-diffusion experiments"
+type: software
+authors:
+  - family-names: Kwon
+    given-names: Kiwoong
+version: "0.1.0"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Posteriori Error Analysis of Runge-Kutta Discontinuous Galerkin Schemes with SIAC Post-Processing for Nonlinear Convection-Diffusion Systems"
+  authors:
+    - family-names: Giesselmann
+      given-names: Jan
+    - family-names: Kwon
+      given-names: Kiwoong
+    - family-names: Krumscheid
+      given-names: Sebastian
+  doi: 10.48550/arXiv.2604.01200
+  year: 2026
+  journal: arXiv
