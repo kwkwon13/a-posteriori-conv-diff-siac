@@ -1,0 +1,28 @@
+{
+  "title": "Source code for a posteriori error analysis of Runge-Kutta discontinuous Galerkin schemes with SIAC post-processing",
+  "upload_type": "software",
+  "description": "Python reproduction code for the numerical experiments in the paper \"A Posteriori Error Analysis of Runge-Kutta Discontinuous Galerkin Schemes with SIAC Post-Processing for Nonlinear Convection-Diffusion Systems\".",
+  "creators": [
+    {
+      "name": "Kwon, Kiwoong",
+      "affiliation": "Technische Universitat Darmstadt"
+    }
+  ],
+  "version": "0.1.0",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Runge-Kutta discontinuous Galerkin methods",
+    "SIAC filtering",
+    "a posteriori error estimation",
+    "convection-diffusion systems"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2604.01200",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ]
+}
